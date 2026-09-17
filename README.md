@@ -44,7 +44,7 @@ and managing PostgreSQL environments.
 - DBeaver
 - Zabbix
 
-## 👩‍💻 About
+## 👩‍💻 About me 
 
 Maintained by **Krisna Aquino**, Senior Database Administrator specializing in
 PostgreSQL and Microsoft SQL Server administration, performance tuning,
